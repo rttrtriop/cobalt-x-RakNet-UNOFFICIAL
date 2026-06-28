@@ -38,3 +38,5 @@ Spy Controls — управление хуками и фильтрами
 Оптимизированная работа с большим потоком пакетов (500+ в секунду)
 Виртуализация списка — не лагает при тысячах записей
 Инкрементальный поиск без подвисаний
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rttrtriop/cobalt-x-RakNet-UNOFFICIAL/refs/heads/main/cobaltXraknet.luau"))()
